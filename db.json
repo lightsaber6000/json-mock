@@ -1,5 +1,8 @@
 {
-  "test": {
-    "status": "successd"
+  "auth": {
+    "status": "success"
+  },
+  "profile": {
+    "name": "typicode"
   }
 }
