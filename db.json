@@ -3,12 +3,15 @@
     "status": "success"
   },
   "event": {
-    "event_name": "TEST",
-    "subject_type": "1",
-    "name": "TEST",
-    "surname": "TEST",
-    "fund": "1",
-    "event_sum": "300000",
-    "event_type": "sbor"
+    "status": "success",
+    "data": {
+      "event_name": "TEST",
+      "subject_type": "1",
+      "name": "TEST",
+      "surname": "TEST",
+      "fund": "1",
+      "event_sum": "300000",
+      "event_type": "sbor" 
+    }
   }
 }
