@@ -5,7 +5,7 @@
   "event": {
     "status": "success",
     "data": {
-      "event_name": "TEST",
+      "event_name": "TEST1",
       "subject_type": "1",
       "name": "TEST",
       "surname": "TEST",
